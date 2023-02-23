@@ -12,7 +12,6 @@ body {
     display: flex;
     justify-content: space-between;
     background: #121214;
-    margin: 18px auto 0;
 }
 .header__navbar {
     display: flex;
